@@ -1,0 +1,16 @@
+---
+---
+
+{{ reference }} &nbsp; {% if entry.doi %}<a href="https://doi.org/{{ entry.doi }}"><large>DOI</large></a>{% endif %} &nbsp; {% if entry.link %}<a href="{{ site.scholar.repository }}/{{ entry.link }}"><large>PDF</large></a>{% endif %}
+
+<style>
+details {
+    display: inline;
+    font-size: small;
+}
+</style>
+
+<details close>
+    <summary>abstract</summary>
+    <span font-size="small" class="notice"><small>{{ entry.abstract }}</small></span>
+</details>
