@@ -21,11 +21,10 @@
 title: Scholar 
 author: Konstantinos Chorianopoulos
 email: choko@ionio.gr
-description: > # 
-    Papers by Konstantinos Chorianopoulos with 
-    PDF download and publisher links. Research  
-    in the areas of user interfaces,
-    digital humanities, gamification.
+description: > #
+    Papers by [Konstantinos Chorianopoulos](https://vita.epidro.me) 
+    with PDF download and publisher links. Research in the areas of 
+    user interfaces, digital humanities, gamification.
 
 minima:
   social_links:
