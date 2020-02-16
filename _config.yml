@@ -22,9 +22,13 @@ title: Scholar
 author: Konstantinos Chorianopoulos
 email: choko@ionio.gr
 description: > #
-    Papers by [Konstantinos Chorianopoulos](https://vita.epidro.me) 
-    with PDF download and publisher links. Research in the areas of 
-    user interfaces, digital humanities, gamification.
+    Papers by Konstantinos Chorianopoulos 
+    with PDF download and publisher links. 
+    Research in the areas of  user interfaces, 
+    digital humanities, gamification.
+
+header_pages:
+  - about.markdown 
 
 minima:
   social_links:
@@ -35,7 +39,6 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-scholar
 
 scholar:
@@ -45,12 +48,11 @@ scholar:
     order: descending
     group_by: none
     group_order: ascending
-    bibliography_group_tag: h2,h3,h4,h5
     bibliography_list_tag: ul
-    bibliography_item_tag: li
-    bibliography_list_attributes: {}
-    bibliography_item_attributes: {}
     bibliography_template: entry
+    details_dir: "/" 
+    details_layout: details.html
+    details_link: ""
     repository: "https://pdf.epidro.me"
 
 # Exclude from processing.

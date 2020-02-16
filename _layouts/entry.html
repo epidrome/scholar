@@ -3,6 +3,9 @@
 
 {{ reference }}
 <br>
+{% if entry.abstract %}
+<a href="{{ details }}"><large>Abstract</large></a>
+{% endif %} &nbsp;
 {% if entry.doi %}
 <a href="https://doi.org/{{ entry.doi }}"><large>DOI</large></a>
 {% endif %} &nbsp; 
