@@ -1,15 +1,18 @@
 ---
 ---
 
-{{ reference }}
+<large><a href="{{ details }}">{{ entry.title }}</a></large>
 <br>
-{% if entry.abstract %}
-<a href="{{ details }}"><large>Abstract</large></a>
-{% endif %} &nbsp;
+{% if entry.author %}
+{{ entry.author }}
+{% else %}
+{{ entry.editor }}
+{% endif %}
+<br>
 {% if entry.doi %}
 <a href="https://doi.org/{{ entry.doi }}"><large>DOI</large></a>
 {% endif %} &nbsp; 
 {% if entry.link %}
 <a href="{{ site.scholar.repository }}/{{ entry.link }}"><large>PDF</large></a>
 {% endif %}
-
+<br><br>

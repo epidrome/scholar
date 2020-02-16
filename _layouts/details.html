@@ -2,20 +2,14 @@
 layout: post 
 ---
 
-<h2>{{ page.entry.author  }}</h2>
-    
-{% if page.entry.abstract %}
-<h3>Abstract</h3>
-<p>
 {{ page.entry.abstract  }}
-</p>
-{% endif %}
-
+<br><br>
 {% if page.entry.doi %}
 <a href="https://doi.org/{{ page.entry.doi  }}"><large>DOI</large></a>
 {% endif %} &nbsp;
-<a download="{{page.entry.key}}.bib" href="data:application/x-bibtex,{{ page.entry.bibtex | uri_escape  }}"><large>BibTeX</large></a> &nbsp;
 {% if page.entry.link %}
 <a href="{{ site.scholar.repository  }}/{{ page.entry.link  }}"><large>PDF</large></a>
 {% endif %}
-
+<br><br>
+{% reference {{page.entry.key}} %} &nbsp;
+<a download="{{page.entry.key}}.bib" href="data:application/x-bibtex,{{ page.entry.bibtex | uri_escape  }}"><large>BibTeX</large></a> &nbsp;
