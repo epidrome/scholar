@@ -9,10 +9,10 @@
 {{ entry.editor }}
 {% endif %}
 <br>
-{% if entry.doi %}
-<a href="https://doi.org/{{ entry.doi }}"><large>DOI</large></a>
-{% endif %} &nbsp; 
 {% if entry.link %}
 <a href="{{ site.scholar.repository }}/{{ entry.link }}"><large>PDF</large></a>
 {% endif %}
+{% if entry.doi %}
+<a href="https://doi.org/{{ entry.doi }}"><large>DOI</large></a>
+{% endif %} &nbsp; 
 <br><br>
