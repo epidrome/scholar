@@ -6,11 +6,9 @@ description: > #
     Papers by Konstantinos Chorianopoulos 
     with PDF download and publisher links. 
     Research in the areas of  user interfaces, 
-    digital humanities, gamification,
-    intelligence augmentation.
+    digital humanities, intelligence augmentation.
 
 header_pages:
-  - contact.markdown
   - readme.markdown
 
 minima:
