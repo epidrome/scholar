@@ -4,22 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Curriculum vitae
-[English CV](https://vita.epidro.me/en/resume.pdf)
-[Ελληνικό βιογραφικό](https://vita.epidro.me/gr/resume.pdf)
-
-## Office address
-[2. Adjunct Teachers Offices of the Department of Informatics and of the Department of  Audio and Visual Arts](http://www.ionio.gr/central/en/map)
-
-## Office hours
-[Schedule a meeting by providing your name and email](https://www.meetingbird.com/h/choko)
-
-## Postal address
-Ionian University
-Department of Informatics
-Platia Tsirigoti 7
-49100 Corfu
-GREECE
+[Curriculum vitae and contact details](https://vita.epidro.me/about)
 
 ## The rise and fall of personal publication repositories 
 The World Wide Web (WWW) system was invented in the early nineties by Tim Berners Lee in order to facilitate the timely distribution of research papers. Presumably, if this vision went through, the WWW would have become an open access digital library of scientific work. Twenty years later, the WWW has mostly transformed into just another advertising and social medium. 
