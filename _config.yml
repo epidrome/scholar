@@ -21,6 +21,7 @@ remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-scholar
   - jekyll-remote-theme
 
