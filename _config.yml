@@ -17,13 +17,12 @@ minima:
     github: epidrome
 
 # Build settings
-remote_theme: jekyll/minima 
+theme: minima 
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-scholar
-  - jekyll-remote-theme
 
 scholar:
     style: acm-siggraph
