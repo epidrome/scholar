@@ -7,7 +7,7 @@ permalink: /about/
 [Curriculum vitae and contact details](https://vita.epidro.me/about)
 
 ## The rise and fall of personal publication repositories 
-The World Wide Web (WWW) system was invented in the early nineties by Tim Berners Lee in order to facilitate the timely distribution of research papers. Presumably, if this vision went through, the WWW would have become an open access digital library of scientific work. Twenty years later, the WWW has mostly transformed into just another advertising and social medium. 
+The World Wide Web (WWW) system was invented in the early nineties by Tim Berners Lee in order to facilitate the timely distribution of research papers. Presumably, if this vision went through, the WWW would have become an open access digital library of scientific work. Twenty years later, the WWW has mostly transformed into just another advertising mass medium. At the same time the majority of publication remain locked behind paywalled commercial publishers. It seems that a gracefull vision is not a sufficient condition. 
 
 Notably, scholars nowdays do not have to maintain a publications repository, because Google Scholar (and several similar services) mine publishers' meta-data and create personal profile pages. Moreover, there are social media systems for scholars, who can now post, comment, and like publications, like they do for cat videos. It looks as if most scholars consider the qualities of their work similar to dog (trying to be politically correct with regard to cat-dog rights, here) photos.
 
