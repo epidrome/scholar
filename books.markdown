@@ -10,7 +10,7 @@ permalink: /books/
 
 * Χωριανόπουλος, Κ. Σχεδίαση της διεπαφής με το χρήστη και αξιολόγηση της ευχρηστίας για εφαρμογές αμφίδρομης διαφήμισης στην ψηφιακή τηλεόραση, Διπλωματική Εργασία, Οικονομικό Πανεπιστήμιο Αθήνας, 2001.
 
-* Χωριανόπουλος, Κ. Virtual Television Channels: User interface design, development, and evaluation. PhD Thesis. Athens University of Economics and Businerss, 2004, σ. 198.
+* Chorianopoulos, K. Virtual Television Channels: User interface design, development, and evaluation. PhD Thesis. Athens University of Economics and Businerss, 2004, σ. 198.
 
 * Cesar, P. and Chorianopoulos, K. The Evolution of TV Systems, Content, and Users Toward Interactivity. p. 95.
 
