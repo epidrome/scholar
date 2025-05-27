@@ -1,23 +1,23 @@
-title: Scholar
+title: Research by Konstantinos Chorianopoulos 
 author:
   name: Konstantinos Chorianopoulos
   email: choko@ionio.gr
 description: > #
-    Papers by Konstantinos Chorianopoulos 
+    Research by Konstantinos Chorianopoulos 
     with PDF download and publisher links. 
     Research in the areas of  user interfaces, 
     software studies, intelligence augmentation.
 
-header_pages:
-  - readme.markdown
-
-minima:
-  social_links:
-    rss: rss
-    github: epidrome
-
 # Build settings
 theme: minima 
+
+header_pages:
+ - readme.markdown
+
+# minima dependencies quiet sass
+silence_deprecation: import
+sass:
+  quiet_deps: true
 
 plugins:
   - jekyll-feed
