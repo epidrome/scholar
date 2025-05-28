@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /papers/
+permalink: /publications/
 ---
 
 <style>
