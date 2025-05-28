@@ -1,3 +1,6 @@
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/epidrome/bib/
+[submodule "_bib"]
+	path = _bib
+	url = https://github.com/epidrome/bib/
