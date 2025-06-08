@@ -18,7 +18,7 @@ In the light of the above issues, I have realized that the evaluation of researc
 Finally, you can read a longer analysis of the motivation and broader context of [keeping some ownership of your work achievements](https://scholar.epidro.me/chorianopoulos_2020). In the following section, you will find some indicative links for taking back the ownership of the maintenance of your pubications. 
 
 ## Dependencies and workflow
-1. The bibliography BibTeX file is a concatenation (consider git submodule!) of the respective files from [my vita repo](https://vita.epidro.me).
-2. [jekyll minima](https://github.com/jekyll/minima) theme provides a minimal layout, which you can adapt or change with another jekyll theme
-3. [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plugin converts the bibliography into basic HTML.
+1. The bibliography BibTeX file is a concatenation of the respective files from [my bibliography submodule repository](https://github.com/epidrome/bib).
+2. [jekyll minima](https://github.com/jekyll/minima) theme provides a minimal layout and stylesheets, which you can adapt or change with another jekyll theme
+3. [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plugin converts the BibTeX bibliography file into basic HTML.
 4. [netlify](https://www.netlify.com) builds and deploys the final site.
